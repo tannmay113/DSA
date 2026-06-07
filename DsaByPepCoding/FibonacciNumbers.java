@@ -27,6 +27,7 @@ public class FibonacciNumbers {
             int c = a + b;
             a = b;
             b = c;
+            int x = 10;
         }
     }
 }
