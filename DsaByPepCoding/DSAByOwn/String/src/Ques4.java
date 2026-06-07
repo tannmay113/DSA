@@ -1,0 +1,20 @@
+import java.util.HashMap;
+import java.util.Map;
+
+public class Ques4 {
+    public static void main(String[] args) {
+
+//        4. Count Occurrences of Character
+
+        String str = "ssilentlistenn";
+
+        Map<Character, Integer> map = new HashMap<>();
+
+        for(char ch : str.toCharArray()){
+
+            map.put(ch, map.getOrDefault(ch, 0) + 1);
+        }
+
+        System.out.println(map);
+    }
+}

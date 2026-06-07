@@ -1,0 +1,580 @@
+normal
+---------------------------
+1. Fibonacci Using Recursion
+2. Find All Palindrome Numbers (1–100) / Check Number is Palindrome
+3. Check Number is Palindrome  (Ques 2 same)
+4. Find factorial (loop & recursion)
+5. Prime number check
+6. Sum of digits  /  Count digits in a number
+7. Swap two numbers without third variable
+8. Check Armstrong number
+9. Find largest of three numbers
+
+(PATTERNS)**
+10. Star triangle pattern
+11. Pyramid pattern / Diamond pattern
+12. Number pattern
+
+13. Check leap year
+14. GCD of two numbers / LCM of two numbers
+
+ Array-Based Problems
+------------------------------------
+1. Reverse an Array
+2. Find the Maximum Element in an Array    / Find max & min in array
+3. Find Duplicate in Array / Remove duplicates from sorted array
+4. Merge Two Sorted Arrays
+5. Find Missing Number in 1 to N
+6. Find Kth Largest Element
+7. Find Intersection of Two Arrays
+8. Rotate Array by K Steps
+9. Move Zeroes to End
+10. Find Sub-array with Given Sum
+11. Kadane’s Algorithm (max subarray sum)  // in 10th question
+12. Find second largest element
+13. Transpose a matrix (2D)
+
+ String-Based Problems
+----------------------------------
+1. Check if a String is a Palindrome
+2. Find First Non-Repeating Character in String
+    process string and return the first non-repeating element.
+    If the string does not have any non-repeating elements, it just returns null
+            String s = "aabbcdde";
+            output = "c"
+
+3. Check Anagram Strings
+4. Count Occurrences of Character
+5. Check a Word is Present in a String
+6. Count vowels & consonants
+7. Longest word in a string
+8. Reverse a string
+9. Remove duplicate characters
+10. Replace spaces with %20
+11. Check valid parentheses
+12. Print all substrings
+
+Searching & Sorting
+--------------------------------------
+1. Linear search
+2. Binary search (iterative)
+3. Binary search (recursive)
+4. Bubble sort
+5. Selection sort
+6. Insertion sort
+7. Merge sort
+8. Quick sort
+9. Find first & last occurrence
+10. Find element in rotated array
+
+
+
+ Linked List Problems
+--------------------------
+1. Create a linked list
+2. Related to node traversal and pointer manipulation.
+3. Reverse a Linked List
+4. Insert at beginning / Insert at end
+5. Delete a node
+6. Search element
+7. Find middle element
+8. Detect loop (Floyd)
+9. Remove loop
+10. Merge two sorted LL
+11. Count Number of Nodes
+12. Print Linked List
+13. Find Nth Node from Beginning
+14. Find Nth Node from End
+
+
+Stack & Queue
+---------------------------------
+Stack
+-----
+1. Implement stack using array
+2. Reverse string using stack
+3. Check balanced parentheses
+4. Next greater element
+5. Infix to postfix
+
+Queue
+-----
+6. Implement queue using array
+7. Implement queue using stack
+8. Circular queue
+9. Sliding window maximum
+10. First non-repeating character
+
+
+────────────────────────
+🔹 RECURSION & MATH & Backtracking
+─────────────────────
+1. Print numbers 1 → N using recursion
+2. Sum of first N numbers (recursion)
+3. Count digits using recursion
+4. Factorial
+5. Fibonacci
+6. Power(x,n)
+7. Reverse string
+8. Sum of digits
+9. Tower of Hanoi
+10. Generate subsets
+11. Permutations
+12. N-Queen
+13. Power of number (recursion)
+14. Sum of array using recursion
+15. Binary to decimal conversion
+
+
+Hashing (HashMap / HashSet)
+---------------------------------------
+1. Two Sum
+2. Frequency count
+3. Find duplicates
+4. First repeating element
+5. Intersection of arrays
+6. Union of arrays
+7. Longest subarray with sum K
+8. Subarray with zero sum
+9. Group anagrams
+10. Majority element
+
+Trees (Binary Tree + BST)
+------------------------------------
+1. Inorder traversal
+2. Preorder traversal
+3. Postorder traversal
+4. Level order traversal
+5. Height of tree
+6. Count nodes
+7. Search in BST
+8. Insert in BST
+9. Find min/max in BST
+10. Check if BST
+
+Heaps / Priority Queue
+--------------------------
+1. Build min heap
+2. Build max heap
+3. Heap sort
+4. Kth largest element
+5. Kth smallest element
+6. Top K frequent elements
+7. Merge K sorted arrays
+8. Sort nearly sorted array
+9. Median in stream
+10. Connect ropes with min cost
+
+
+Greedy
+------------
+1. Activity selection
+2. Coin change (minimum coins)
+3. Job sequencing
+4. Fractional knapsack
+5. Minimum platforms
+6. Gas station problem
+7. Meeting rooms
+8. Candy distribution
+9. Lemonade change
+10. Jump game
+
+Dynamic Programming (DP)
+----------------------------------------
+1. Fibonacci (DP)
+2. Climbing stairs
+3. 0/1 Knapsack
+4. Coin change
+5. Longest common subsequence
+6. Longest increasing subsequence
+7. Minimum path sum
+8. House robber
+9. Subset sum
+10. Edit distance
+
+
+
+Graphs
+----------------
+1. BFS
+2. DFS
+3. Count connected components
+4. Detect cycle (undirected)
+5. Detect cycle (directed)
+6. Shortest path (BFS)
+7. Dijkstra
+8. Topological sort
+9. Number of islands
+10. Flood fill
+
+
+Tries
+--------
+1. Insert word
+2. Search word
+3. Delete word
+4. Prefix search
+Auto-complete
+Count words
+Longest prefix match
+Word dictionary
+Replace words
+XOR subarray (Trie)
+
+Segment Trees
+----------------
+Build segment tree
+Range sum query
+Range minimum query
+Point update
+Range update
+Lazy propagation
+Max query
+Count even/odd
+XOR range
+Product range
+
+
+Bit Manipulation
+-------------------------
+Check odd/even
+Find unique element
+Set ith bit
+Clear ith bit
+Toggle bit
+Count set bits
+Power of two
+XOR of range
+Subsets using bits
+Swap without temp
+
+========================================
+📅 Best Practice Order (Again)
+========================================
+        Arrays → Strings → Search/Sort
+        → Linked List → Stack/Queue
+        → Recursion
+        → Hashing → Trees → Heaps
+        → Greedy → DP → Graphs
+        → Tries → Segment Tree → Bits
+
+
+
+
+
+────────────────────────
+🔹 ADVANCED LOGIC
+────────────────────────
+[41] Find intersection of two arrays
+[42] Find union of arrays
+[43] Two Sum problem
+[44] Kadane’s Algorithm (max subarray sum)
+[45] Check balanced parentheses
+[46] Longest palindrome substring
+[47] Count words in string
+[48] Find common elements in arrays
+[49] Remove special characters from string
+[50] Find first repeating element
+
+
+------------------------------------------------------------------------------------------------------------------------
+
+I found these 16 problem-solving patterns
+
+1. Sliding window pattern.
+2. Two-pointer pattern.
+3. Fast & slow pointers pattern.
+4. Merger interval pattern.
+5. Cyclic sort pattern.
+6. In-place reversal of linked list pattern.
+7. Tree breadth-first search pattern.
+8. Depth-first search DFS pattern.
+9. Two heap pattern.
+10. Subsets pattern.
+11. Modified binary search pattern.
+12. Bitwise xor pattern.
+13. Top 'K' elements pattern.
+14. K-way merge pattern.
+15. 0/1 knapsack DP pattern.
+16. Topological sort Graph pattern
+
+
+
+
+=============================================================================
+
+
+1️⃣ Array Basics
+| Problem                           | LeetCode  | GeeksforGeeks                               |
+| ------------------------------    | --------  | ------------------------------------------- |
+| Reverse an array                  | LC 344    | Reverse an Array                            |Done
+| Find max & min in array           | LC 121    | Largest Element in Array                    |Done
+| Second largest element            | LC 414    | Second Largest Element                      |Done
+| Check if array sorted             | LC 1752   | Check if array is sorted                    |Done
+| Remove duplicates sorted array    | LC 26     | Remove duplicate elements from sorted Array |Done
+| Move zeros to end                 | LC 283    | Move all zeroes to end of array             |Done
+| Rotate array by k                 | LC 189    | Rotate Array                                |done
+| Union of two arrays               | LC 349    | Union of Two Sorted Arrays                  |done
+| Intersection of arrays            | LC 350    | Intersection of Two Arrays                  |done
+| Find missing number               | LC 268    | Missing Number in Array                     |done
+
+
+| Find majority element             | **LC 169** | Majority Element                           |done
+| Kadane’s Algorithm (Max Subarray) | **LC 53**  | Maximum Subarray                           |done
+| Rearrange array alternatively     | —          | Rearrange Array Alternately                |
+| Leaders in array                  | —          | Leaders in an Array                        |
+| Find all duplicates in array      | **LC 442** | Find duplicates in array                   |done
+| Product of array except self      | **LC 238** | Product Array Puzzle                       |done
+| Longest consecutive sequence      | **LC 128** | Longest Consecutive Subsequence            |done
+| Subarray with given sum           | **LC 560** | Subarray with Given Sum                    |done
+| Maximum product subarray          | **LC 152** | Maximum Product Subarray                   |done
+| Two sum                           | LC  1      | Two sum                                    |done
+| Merge Intervals                   | LC 56      | Merge Intervals                            |done
+| Product of Array Except Self      | LC 238     | Product of Array Except Self               |done
+| 3Sum                              | LC 15      | 3Sum                                       |
+| Container With Most Water         | LC 11      | Container With Most Water                  |
+| Set Matrix Zeroes                 | LC 73      | Set Matrix Zeroes                          |
+
+2️⃣ Two Pointer Technique
+| Problem                    | LeetCode | GeeksforGeeks                  |
+| -------------------------- | -------- | ------------------------------ |
+| Two Sum (sorted)           | LC 167   | Count pairs with given sum     |
+| Remove duplicates sorted   | LC 26    | Remove duplicates sorted array |
+| Container with most water  | LC 11    | Container With Most Water      |
+| 3Sum                       | LC 15    | Triplet Sum in Array           |
+| Trapping Rain Water        | LC 42    | Trapping Rain Water            |
+| Sort Colors                | LC 75    | Sort an array of 0s 1s and 2s  |
+| Pair with given difference | LC 532   | Find Pair Given Difference     |
+| Squares of sorted array    | LC 977   | Square of Sorted Array         |
+| Reverse string             | LC 344   | Reverse a String               |
+| Merge sorted arrays        | LC 88    | Merge two sorted arrays        |
+
+String
+| #  | Question                                            | LeetCode | GFG |
+| -- | --------------------------------------------------- | -------- | --- |
+| 1  | Longest Substring Without Repeating Characters      | 3        | Yes |
+| 2  | Valid Anagram                                       | 242      | Yes |
+| 3  | Group Anagrams                                      | 49       | Yes |
+| 4  | Longest Palindromic Substring                       | 5        | Yes |
+| 5  | String to Integer (atoi)                            | 8        | Yes |
+| 6  | Reverse Words in a String                           | 151      | Yes |
+| 7  | Valid Parentheses                                   | 20       | Yes |
+| 8  | Implement strStr() (Find Index of First Occurrence) | 28       | Yes |
+| 9  | Decode Ways                                         | 91       | Yes |
+| 10 | Count and Say                                       | 38       | Yes |
+| 11 | Valid Palindrome                                    | 125      | Yes |
+| 12 | Remove Consecutive Characters                       | ❌       | Yes |
+| 13 | Longest Common Prefix                               | 14       | Yes |
+| 14 | Convert Sentence to Mobile Keypad                   | ❌       | Yes |
+| 15 | Print All Duplicates in String                      | ❌       | Yes |
+| 16 | Longest Repeating Character Replacement             | 424      | Yes |
+| 17 | Palindromic Substrings                              | 647      | Yes |
+| 18 | Next Permutation                                    | 31       | Yes |
+| 19 | Count Palindromic Subsequences                      | ❌       | Yes |
+| 20 | Smallest Window in String                           | ❌       | Yes |
+| 21 | Wildcard Matching                                   | 44       | Yes |
+| 22 | Longest Prefix Suffix (LPS - KMP)                   | ❌       | Yes |
+| 23 | Minimum Window Substring                            | 76       | Yes |
+| 24 | Word Wrap                                           | ❌       | Yes |
+
+
+
+3️⃣ Sliding Window
+
+| Problem                          | LeetCode | GeeksforGeeks                                  |
+| -------------------------------- | -------- | ---------------------------------------------- |
+| Max sum subarray size k          | LC 643   | Maximum Sum Subarray of Size K                 |
+| Longest substring without repeat | LC 3     | Longest Substring Without Repeating Characters |
+| Minimum window substring         | LC 76    | Smallest Window Containing String              |
+| Longest repeating replacement    | LC 424   | Longest Repeating Character Replacement        |
+| Permutation in string            | LC 567   | Check if string is permutation                 |
+| Subarray product < k             | LC 713   | Subarray Product Less Than K                   |
+| Fruit into baskets               | LC 904   | Fruits Into Baskets                            |
+| Binary subarrays with sum        | LC 930   | Binary Subarray With Sum                       |
+| Longest subarray ≤ k             | LC 862   | Longest Subarray with Sum K                    |
+| Max average subarray             | LC 643   | Maximum Average Subarray                       |
+
+4️⃣ Hashing / HashMap
+
+| Problem                      | LeetCode | GeeksforGeeks                              |
+| ---------------------------- | -------- | ------------------------------------------ |
+| Two Sum                      | LC 1     | Key Pair                                   |
+| Group Anagrams               | LC 49    | Print Anagrams Together                    |
+| Top K Frequent               | LC 347   | Top K Frequent Elements                    |
+| Longest consecutive sequence | LC 128   | Longest Consecutive Subsequence            |
+| Subarray sum = k             | LC 560   | Subarray with Given Sum                    |
+| Valid anagram                | LC 242   | Anagram                                    |
+| Majority element             | LC 169   | Majority Element                           |
+| Find duplicate               | LC 287   | Find the Duplicate Number                  |
+| Longest substring k distinct | LC 340   | Longest substring with K unique characters |
+| First unique char            | LC 387   | First Non Repeating Character              |
+
+5️⃣ Binary Search
+
+| Problem                 | LeetCode           | GeeksforGeeks                  |
+| ----------------------- | ------------------ | ------------------------------ |
+| Binary search           | LC 704             | Binary Search                  |
+| First & last occurrence | LC 34              | First and Last Occurrence      |
+| Search rotated array    | LC 33              | Search in Rotated Sorted Array |
+| Find peak element       | LC 162             | Peak Element                   |
+| Square root             | LC 69              | Square Root                    |
+| Koko eating bananas     | LC 875             | Koko Eating Bananas            |
+| Ship packages           | LC 1011            | Capacity to Ship Packages      |
+| Median of two arrays    | LC 4               | Median of Two Sorted Arrays    |
+| Find minimum rotated    | LC 153             | Minimum in Rotated Array       |
+| Aggressive cows         | LC 1552 equivalent | Aggressive Cows                |
+
+6️⃣ Prefix Sum
+
+| Problem                  | LeetCode | GeeksforGeeks                         |
+| ------------------------ | -------- | ------------------------------------- |
+| Range sum query          | LC 303   | Range Sum Query                       |
+| Subarray sum = k         | LC 560   | Subarray with Given Sum               |
+| Pivot index              | LC 724   | Equilibrium Point                     |
+| Running sum              | LC 1480  | Running Sum                           |
+| Product except self      | LC 238   | Product Array Puzzle                  |
+| Maximum subarray         | LC 53    | Kadane Algorithm                      |
+| Subarrays divisible by k | LC 974   | Subarrays Divisible by K              |
+| Equal 0 and 1 subarray   | LC 525   | Largest Subarray with Equal 0s and 1s |
+| Continuous subarray sum  | LC 523   | Continuous Subarray Sum               |
+| Maximum average subarray | LC 643   | Maximum Average Subarray              |
+
+7️⃣ Recursion
+
+| Problem              | LeetCode | GeeksforGeeks                   |
+| -------------------- | -------- | ------------------------------- |
+| Fibonacci            | LC 509   | Fibonacci Series                |
+| Power of number      | LC 50    | Power of Numbers                |
+| Reverse string       | LC 344   | Reverse String Recursion        |
+| Generate subsets     | LC 78    | Subsets                         |
+| Permutations         | LC 46    | Permutations                    |
+| Combination sum      | LC 39    | Combination Sum                 |
+| N queens             | LC 51    | N Queen Problem                 |
+| Tower of Hanoi       | —        | Tower of Hanoi                  |
+| Letter combinations  | LC 17    | Phone Digit Letter Combinations |
+| Generate parentheses | LC 22    | Generate Parentheses            |
+
+8️⃣ Backtracking
+
+| Problem                 | LeetCode | GeeksforGeeks        |
+| ----------------------- | -------- | -------------------- |
+| Subsets                 | LC 78    | Subsets              |
+| Permutations            | LC 46    | Permutations         |
+| Combination Sum         | LC 39    | Combination Sum      |
+| Sudoku Solver           | LC 37    | Sudoku Solver        |
+| N Queens                | LC 51    | N Queen              |
+| Word Search             | LC 79    | Word Search          |
+| Palindrome partitioning | LC 131   | Palindrome Partition |
+| Generate parentheses    | LC 22    | Generate Parentheses |
+| Letter combinations     | LC 17    | Letter Combinations  |
+| Combination Sum II      | LC 40    | Combination Sum II   |
+
+
+9️⃣ Stack Pattern
+
+| Problem                     | LeetCode | GeeksforGeeks            |
+| --------------------------- | -------- | ------------------------ |
+| Valid parentheses           | LC 20    | Parenthesis Checker      |
+| Next greater element        | LC 496   | Next Greater Element     |
+| Daily temperatures          | LC 739   | Daily Temperatures       |
+| Largest rectangle histogram | LC 84    | Largest Rectangular Area |
+| Min stack                   | LC 155   | Get Min in Stack         |
+| Evaluate postfix            | LC 150   | Evaluation of Postfix    |
+| Decode string               | LC 394   | Decode String            |
+| Remove k digits             | LC 402   | Remove K Digits          |
+| Asteroid collision          | LC 735   | Asteroid Collision       |
+| Simplify path               | LC 71    | Simplify Directory Path  |
+
+1️⃣1️⃣ Linked List
+
+| Problem                | LeetCode | GeeksforGeeks          |
+| ---------------------- | -------- | ---------------------- |
+| Reverse linked list    | LC 206   | Reverse Linked List    |
+| Detect cycle           | LC 141   | Detect Loop            |
+| Merge sorted lists     | LC 21    | Merge Two Sorted Lists |
+| Remove nth node        | LC 19    | Remove Nth Node        |
+| Middle node            | LC 876   | Middle of Linked List  |
+| Palindrome linked list | LC 234   | Palindrome Linked List |
+| Intersection           | LC 160   | Intersection Point     |
+| Reverse k group        | LC 25    | Reverse in Groups      |
+| Add two numbers        | LC 2     | Add Two Numbers        |
+| Copy random list       | LC 138   | Clone Linked List      |
+
+1️⃣2️⃣ Binary Trees
+
+| Problem                | LeetCode | GeeksforGeeks            |
+| ---------------------- | -------- | ------------------------ |
+| Inorder traversal      | LC 94    | Inorder Traversal        |
+| Preorder traversal     | LC 144   | Preorder Traversal       |
+| Postorder traversal    | LC 145   | Postorder Traversal      |
+| Level order            | LC 102   | Level Order Traversal    |
+| Max depth              | LC 104   | Height of Binary Tree    |
+| Same tree              | LC 100   | Check if Trees Identical |
+| Lowest common ancestor | LC 236   | LCA Binary Tree          |
+| Diameter               | LC 543   | Diameter of Binary Tree  |
+| Path sum               | LC 112   | Path Sum                 |
+| Balanced tree          | LC 110   | Balanced Binary Tree     |
+
+
+1️⃣3️⃣ Binary Search Trees
+
+| Problem            | LeetCode | GeeksforGeeks       |
+| ------------------ | -------- | ------------------- |
+| Search BST         | LC 700   | Search in BST       |
+| Insert BST         | LC 701   | Insert Node BST     |
+| Delete BST         | LC 450   | Delete Node BST     |
+| Validate BST       | LC 98    | Check BST           |
+| Kth smallest       | LC 230   | Kth Smallest BST    |
+| LCA BST            | LC 235   | LCA in BST          |
+| Sorted array → BST | LC 108   | Sorted Array to BST |
+| BST iterator       | LC 173   | BST Iterator        |
+| Two sum BST        | LC 653   | Two Sum BST         |
+| Recover BST        | LC 99    | Recover BST         |
+
+1️⃣4️⃣ Graphs
+
+| Problem               | LeetCode | GeeksforGeeks      |
+| --------------------- | -------- | ------------------ |
+| DFS                   | LC 695   | DFS of Graph       |
+| BFS                   | LC 200   | BFS of Graph       |
+| Number of islands     | LC 200   | Number of Islands  |
+| Clone graph           | LC 133   | Clone Graph        |
+| Course schedule       | LC 207   | Course Schedule    |
+| Detect cycle          | LC 207   | Detect Cycle Graph |
+| Topological sort      | LC 210   | Topological Sort   |
+| Shortest path         | LC 743   | Dijkstra Algorithm |
+| Minimum spanning tree | LC 1584  | Prim's Algorithm   |
+| Word ladder           | LC 127   | Word Ladder        |
+
+1️⃣5️⃣ Dynamic Programming
+
+| Problem                  | LeetCode          | GeeksforGeeks                  |
+| ------------------------ | ----------------- | ------------------------------ |
+| Fibonacci                | LC 509            | Fibonacci DP                   |
+| Climbing stairs          | LC 70             | Count Ways to Reach Nth Stair  |
+| House robber             | LC 198            | Stickler Thief                 |
+| Coin change              | LC 322            | Coin Change                    |
+| LIS                      | LC 300            | Longest Increasing Subsequence |
+| LCS                      | LC 1143           | Longest Common Subsequence     |
+| Edit distance            | LC 72             | Edit Distance                  |
+| Knapsack                 | LC 416 equivalent | 0/1 Knapsack                   |
+| Partition equal subset   | LC 416            | Partition Equal Subset         |
+| Maximum product subarray | LC 152            | Maximum Product Subarray       |
+
+
+
+--Best Learning Order--
+Arrays
+Two Pointers
+Sliding Window
+Hashing
+Binary Search
+Recursion
+Backtracking
+Stack
+Queue
+Linked List
+Trees
+BST (Binary Search Trees)
+Graphs
+Dynamic Programming
